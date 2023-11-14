@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 한국외국어대학교 경영학전공/AI융합전공 Software&AI 재학 중입니다.
-- 매일 성장하고 특정 포지션에 구애받지 않는 개발자가 되기 위해 노력 중입니다.
-- Python, Django를 주로 사용하며, 현재는 Java와 JavaScript를 공부하는 중입니다. 
-- 기술 블로그 작성과 1일 1커밋 습관을 들이려고 노력 중입니다.
-- https://z9mb1.tistory.com/
-  
+
