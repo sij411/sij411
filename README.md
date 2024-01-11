@@ -1,4 +1,4 @@
-### 👋
+### 
 
 <!--
 **sij411/sij411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+(temporay)
+- Hi, I'm a students studying business and programming at HUFS
+- Actively looking for an developer internship
+- Interests: Python, Java, JavaScript 
+- Feel free to contact: kjiwon411@hufs.ac.kr
+  
+  
