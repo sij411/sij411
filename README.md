@@ -9,7 +9,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=z9mb1&postId=6&theme=dark)](https://z9mb1.tistory.com)
   
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=z9mb1&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=z9mb1&theme=dark)](https://z9mb1.tistory.com)
