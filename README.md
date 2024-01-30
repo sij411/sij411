@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - Feel free to contact: kjiwon411@hufs.ac.kr
   
   
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={z9mb1})](https://github.com/loosie/github-readme-tistory-card)
