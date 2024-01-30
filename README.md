@@ -5,7 +5,7 @@
 - Feel free to contact: kjiwon411@hufs.ac.kr
   
 # My recent blog posts
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=z9mb1&postId={insert_postId})](https://z9mb1.tistory.com/6)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=z9mb1&postId=6&theme={insert_theme})]([https://z9mb1.tistory.com])
 
   
 
