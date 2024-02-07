@@ -1,6 +1,5 @@
 # Summary
 - Hi, I'm a students studying business and programming at HUFS
-- Actively looking for an developer internship
 - Interests: Python, Java, JavaScript, Dart, Flutter, Spring
 - Feel free to contact: kjiwon411@hufs.ac.kr
   
