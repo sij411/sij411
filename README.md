@@ -1,7 +1,7 @@
 # Summary
 - Hi, I'm a students studying business and programming at HUFS
 - Interests: Python, Java, JavaScript, Dart, Flutter, Spring
-- Feel free to contact: kjiwon411@hufs.ac.kr
+- Feel free to contact: kjiwon411@gmail.com
 
 
   
