@@ -7,11 +7,11 @@
 
 ## Tech stacks
 
-Algorithm: Java, Python
-Data-related: Python
-Web frontend(or Fullstack): JavaScript/TypeScript, Next.js, Astro, HTML/CSS(+ Tailwind, etc), Vaadin
-Web backend: Java Springboot, Python Django (sometimes)
-Others: Rust
+- Algorithm: Java, Python
+- Data-related: Python
+- Web frontend(or Fullstack): JavaScript/TypeScript, Next.js, Astro, HTML/CSS(+ Tailwind, etc), Vaadin
+- Web backend: Java Springboot, Python Django (sometimes)
+- Others: Rust
 
 When I got bored: Unreal Engine 5
 
@@ -25,7 +25,7 @@ Hankuk University of Foreign Studies (Seoul, South Korea) 2021.3. ~
 - Business & AI Convergence (Software & AI)
 
 ## Etc
-I post some blogs on [DEVOCEAN](https://devocean.sk.com/)
+I post some blogs on [DEVOCEAN](https://devocean.sk.com/) <br/>
 Check 햄버거주도개발 (kjiwon411@hufs.ac.kr)'s posts on the DEVOCEAN!
 
 Also I am the member of DEVOCEAN YOUNG 3rd so if you're interested in it, feel free to email me! (only undergraduates)
