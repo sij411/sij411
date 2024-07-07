@@ -16,7 +16,10 @@
 When I got bored: Unreal Engine 5
 
 ## Interests
-Current: CLI tools, backend 
+
+I'm studying Springboot, Kubernetes, and Rust at the moment. 
+
+Current interests: CLI tools, backend things
 - Docker, k8s
 - Shell, terminal, OS
 
