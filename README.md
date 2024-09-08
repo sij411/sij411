@@ -5,14 +5,14 @@
 
 Data/backend engineer
 
-**Education**
+#### **Education** 
 B.A.A. in Business Administration and B.S. in AI Convergence(Software & AI track)/Undergraduate
 
-**[CV/Resume](https://drive.google.com/file/d/1TV7fDq8jOTJi9fNF5zKcp7LC-AlVmTC3/view?usp=sharing)**
+#### **[CV/Resume](https://drive.google.com/file/d/1TV7fDq8jOTJi9fNF5zKcp7LC-AlVmTC3/view?usp=sharing)** 
 Last update: July 2024
 
 
-**Contacts**
+#### **Contacts**
 - kjiwon411@gmail.com
 - jiwonkwon@beringlab.com
 
