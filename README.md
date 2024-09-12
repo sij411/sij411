@@ -1,6 +1,6 @@
 
 
-<a href="https://sij411.github.io/blog-2024-June"><img src="public/image/blog.png" width="150" height="150"></a> 
+<a href=""><img src="public/image/blog.png" width="150" height="150"></a> 
 
 
 Data/backend engineer
