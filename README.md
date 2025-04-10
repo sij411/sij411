@@ -1,6 +1,6 @@
 Data/backend engineer
 
-Education B.A.A. in Business Administration and B.S. in AI Convergence(Software & AI track)/Undergraduate
+Education B.A.A. in Business Administration and B.S. in AI Convergence(Software & AI track)
 
 CV/Resume Last update: July 2024
 
