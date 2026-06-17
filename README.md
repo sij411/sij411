@@ -1,6 +1,6 @@
 **Software Engineer**
 
-I love tech community, building softwares, tinkering hardwares, and gaming!
+I love building softwares, tinkering hardwares, and gaming!
 
 Small fun projects are [here](https://codeberg.org/sij411)
 
